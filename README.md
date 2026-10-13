@@ -1,5 +1,7 @@
 # Salary Calculator
 
+> **Offline since 2026-10-13.** Superseded by `../income-calculator` (income.mapleintel.uk), which merged this app in. The Cloudflare Pages project and its custom domain were deleted; the code is kept here for reference.
+
 NHS / non-NHS take-home pay calculator. Standalone static PWA (app shell +
 service worker), no build step and no dependencies — deploy as-is.
 
